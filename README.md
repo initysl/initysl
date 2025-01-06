@@ -3,9 +3,9 @@
 <h3 align="center">Computer Scientist | Software Engineer</h3>
 
 
-- 🌱 I’m currently learning **React Js**
+- Full Stack Developer 
 
 - 💬 Ask me about **Tech**
 
-- ⚡ Fun fact **Assertive!**
+- ⚡ Fun fact **Assertive!**    
 
