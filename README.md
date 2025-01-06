@@ -3,7 +3,6 @@
 <h3 align="center">Computer Scientist | Software Engineer</h3>
 
 
-- Full Stack Developer 
 
 - 💬 Ask me about **Tech**
 
