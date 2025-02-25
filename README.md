@@ -5,8 +5,6 @@
 
 
 
-- **Languages | Frameworks:** MERN, Ract Native, Python
-- **Tools:** Git, GitHub, VS Code, Docker
 
 
 
